@@ -1,2 +1,3 @@
 # Hello-World
 Personal repository for ideas and so on...
+My name is Charles and I am new at this. I have enjoyed coding so far, and look forward to making a career out of this in the near future.
